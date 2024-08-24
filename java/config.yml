@@ -1,4 +1,4 @@
-#
+er#
 #    ╭━━━╮╱╱╱╱╱╱╱╱╱╱╭╮
 #    ┃╭━╮┃╱╱╱╱╱╱╱╱╱╱┃┃
 #    ┃┃╱┃┣╮╭┳━━┳━╮╭━╯┃
@@ -10,7 +10,7 @@
 
 # This changes the jar file name. PLEASE MAKE SURE IT MATCHES THE JAR FILE NAME OR ELSE IT WILL CREATE A NEW JAR FILE.
 # Also make sure to include ".jar".
-jar-name: "purpur.jar"
+jar-name: "server.jar"
 
 # This how you can customize the type of server you would like. It is defaulted to "paper".
 # The current options for selecting the server jar are "purpur" or "paper".
